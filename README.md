@@ -240,7 +240,7 @@ Diwali-Sales-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Diwali-Sales-Analysis.git
+git clone https://github.com/mahendra-samant/Diwali-Sales-Analysis.git
 ```
 
 ### 2. Navigate to the project
